@@ -52,7 +52,7 @@ This repository contains comprehensive solutions for three advanced C programmin
 
 ```c
 // Dynamic sorting with function pointers
-✅ 20 biblical/international names
+✅ 20 international names
 ✅ Bubble sort algorithm implementation
 ✅ Ascending/descending order selection
 ✅ Function pointers for runtime method selection

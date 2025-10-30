@@ -150,9 +150,9 @@ make clean        # Remove compiled executables
       <a href="https://github.com/Aman-Kasa">🔗 GitHub</a>
     </td>
     <td align="center">
-      <img src="https://github.com/josephkaruiki.png" width="100px;" alt="Joseph Karuiki"/><br />
+      <img src="https://github.com/kambaikariuki.png" width="100px;" alt="Joseph Karuiki"/><br />
       <sub><b>Joseph Karuiki</b></sub><br />
-      <a href="https://github.com/josephkaruiki">🔗 GitHub</a>
+      <a href="https://github.com/kambaikariuki">🔗 GitHub</a>
     </td>
   </tr>
 </table>

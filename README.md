@@ -14,7 +14,7 @@
 </div>
 
 ---
-
+![pointers, functions, memory-managment](https://imgs.search.brave.com/_PXkRVIzm_XVElJ7C-5VKNCoJclb9p17Lzr163WZYgE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zY2Fs/ZXIuY29tL3RvcGlj/cy9pbWFnZXMvRGlh/Z3JhbS1mb3ItbWVt/b3J5LXN0cnVjdHVy/ZS1vZi1DLndlYnA)
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [🎯 Assignment Solutions](#assignment-solutions)
